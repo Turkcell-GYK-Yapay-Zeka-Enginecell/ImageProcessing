@@ -1,0 +1,54 @@
+KAYALI
+ŞİRKETLER
+GRUBU
+FATURA
+Atatürk Mah. Gazi Bulvarı No: 12
+10100 Karesi /Balıkesir
++0 212 123 24 25
+Fatura No: 002
+merhaba@harikasite.veb.tr
+Düzenlenme Tarihi: 3 Temmuz 2030
+ALICI BİLGİLERİ
+Helin Kınay-Günay İç Tasarım
+Atatürk Mah. Gazi Bulvarı No: 12
+10100 Karesi /Balıkesir
+merhaba@harikasite veb.tr
+AÇIKLAMA
+MİKTAR
+KDV
+BİRİM FİYATI
+TOPLAM
+MERMER
+25
+100,00 TL
+250,00 TL
+GRANİT
+5
+125,00 TL
+625,00 TL
+FAYANS
+5
+250,00 TL
+125,00 TL
+SERAMİK
+1
+150,00 TL
+150,00 TL
+EPOKSİ
+3
+150,00 TL
+450,00 TL
+ARA TOPLAM
+5200,00 TL
+VERGİLER
+915
+TOPLAM FİYAT :
+8400,00 TL
+ÖDEME BİLGİsİ
+Hesap Adı: CEREN DERTSİZ
+'Lorem ipsum dolor sit amet; consectetur adipiscing elit.
+Hesap No: 123 465 7890
+Curabitur sem orci; faucibus eget turpis sed, euismod
+Ödeme Vadesi: 3 Temmuz 2030
+egestas arcu. Proin hendrerit bibendum negue vel varius.
+BİZİ TERCİH ETTİĞİNİZ İÇİN TEŞEKKÜR EDERİZ.
