@@ -1,0 +1,7 @@
+path: C:\Users\ZühalÖzdemir\PycharmProjects\yolo_project\data
+train: images
+val: images
+
+nc: 1
+names:
+  0: plaka
