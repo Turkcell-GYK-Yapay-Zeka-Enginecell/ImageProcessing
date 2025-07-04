@@ -20,5 +20,9 @@ Install the required packages with:
 
 ```bash
 pip install ultralytics opencv-python
+```
 
+<img src="images/test1.png" alt="Test Image" width="500"/>
+<img src="images/test2.png" alt="Test Image" width="500"/>
+<img src="images/console_output.png" alt="Test Image" width="500"/>
 
