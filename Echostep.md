@@ -27,3 +27,24 @@ person, bicycle, car, motorcycle, airplane, bus, train, truck, boat, traffic lig
 - [Road Obstacles 4](https://universe.roboflow.com/turkeyroadsigns/turkey-road-sign?utm_source=chatgpt.com)
 <i> 20, 30, dur, durak, girisyok, ilerisag, ilerisol, kirmizi, park, parkyasak, sag, sagadonulmez, sari, sol, soladonulmez, yesil
  </i>
+
+
+### Classes
+- İnsan / Yaya (Person, Pedestrian)
+- Bisiklet (Bicycle)
+- Araçlar (Car, Truck, Bus, Motorcycle)
+- Trafik ışığı (Traffic Light)
+- Trafik işaretleri (Traffic Sign, Stop Sign, Speed Limit)
+- Kaldırım (Sidewalk)
+- Yol (Road, Street)
+- Engel / Engel çeşitleri (Obstacle, Barrier, Construction Cone)
+- Yol çizgileri (Crosswalk, Lane Marker)
+- Yol kenarı (Road Edge)
+- Çöp kutusu (Trash Can)
+- Ağaçlar / Bitkiler (Tree, Bush)
+- Elektrik direği (Pole)
+- Merdiven (Stairs)
+- Toprak veya çimen alanlar (Grass, Dirt)
+- Park alanı (Parking Spot)
+- Yönlendirme tabelaları (Directional Sign)
+- Engelli rampası (Wheelchair Ramp)
