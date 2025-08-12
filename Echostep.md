@@ -11,7 +11,7 @@ person, bicycle, car, motorcycle, airplane, bus, train, truck, boat, traffic lig
 - [Kitchen Scene](https://universe.roboflow.com/sdc-gz79b/ai2thor)
 ## Road Dataset
 - [Road](https://www.kaggle.com/datasets/solesensei/solesensei_bdd100k/data)
-<i> person, rider, car, truck, bus, train, motor (motorcycle), bike (bicycle), traffic light, traffic sign
+<i> person(129262), rider(6461), car(1021857), truck(42963), bus(16505), train(179), motor (motorcycle)(4296), bike (bicycle)(10229), traffic light(265906), traffic sign(343777)
  </i>
  
 - [Road Sign](https://www.kaggle.com/datasets/andrewmvd/road-sign-detection)
