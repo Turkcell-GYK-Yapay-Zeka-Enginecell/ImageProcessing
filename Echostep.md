@@ -15,14 +15,17 @@ person, bicycle, car, motorcycle, airplane, bus, train, truck, boat, traffic lig
  </i>
  
 - [Road Sign](https://www.kaggle.com/datasets/andrewmvd/road-sign-detection)
-  <i>Trafic Light, Stop, Speedlimit, Crosswalk </i>
-- [Road Obstacles](https://data.mendeley.com/datasets/jr3yv3wfhx/1)
+  <i>Trafic Light, Stop, Speedlimit, Crosswalk  (877) </i>
+  
+- [Road Obstacles](https://data.mendeley.com/datasets/jr3yv3wfhx/1) <i> Auto,Crosswalk,Electric Bike,Random,Road Obstacle,Road sign,Road Traffic,Road,Tractor,Traffic Sign,Truck Tempo
+</i>
+
 - [Road Obstacles 2](https://universe.roboflow.com/safewalkbd/safewalkbd-l8jbn)
-<i> Animal, Crosswalk, Obstacle, Over-bridge, Person, Pole, Pothole, Railway, Road-barrier, Sidewalk, Stairs, Traffic-light, Traffic-sign, Train, Tree, Vehicle
+<i> Animal(1682), Crosswalk, Obstacle(3249), Over-bridge, Person(4722), Pole(4533), Pothole(1568), Railway, Road-barrier, Sidewalk(1469), Stairs(1375), Traffic-light(1216), Traffic-sign, Train, Tree(1698), Vehicle(7082)
 </i>
 
 - [Road Obstacles 3](https://universe.roboflow.com/scottsdale/sidewalk-otzhb)
-<i>Animal, Crosswalk, Obstacle, Over-bridge, Person, Pole, Pothole, Railway, Road-barrier, Sidewalk, Stairs, Traffic-light, Traffic-sign, Train, Tree, Vehicle </i>
+<i>Animal, Crosswalk, Obstacle, Over-bridge, Person, Pole, Pothole, Railway, Road-barrier, Sidewalk, Stairs, Traffic-light(487), Traffic-sign(697), Train, Tree, Vehicle </i>
 
 - [Road Obstacles 4](https://universe.roboflow.com/turkeyroadsigns/turkey-road-sign?utm_source=chatgpt.com)
 <i> 20, 30, dur, durak, girisyok, ilerisag, ilerisol, kirmizi, park, parkyasak, sag, sagadonulmez, sari, sol, soladonulmez, yesil
