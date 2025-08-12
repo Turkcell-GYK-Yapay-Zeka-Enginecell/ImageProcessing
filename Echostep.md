@@ -29,19 +29,24 @@ person, bicycle, car, motorcycle, airplane, bus, train, truck, boat, traffic lig
  </i>
 
 
-### Classes
+## CLASSES
+### Emine
 - İnsan / Yaya (Person, Pedestrian)
 - Bisiklet (Bicycle)
 - Araçlar (Car, Truck, Bus, Motorcycle)
 - Trafik ışığı (Traffic Light)
 - Trafik işaretleri (Traffic Sign, Stop Sign, Speed Limit)
 - Kaldırım (Sidewalk)
+
+### Zuhal
 - Yol (Road, Street)
 - Engel / Engel çeşitleri (Obstacle, Barrier, Construction Cone)
 - Yol çizgileri (Crosswalk, Lane Marker)
 - Yol kenarı (Road Edge)
 - Çöp kutusu (Trash Can)
 - Ağaçlar / Bitkiler (Tree, Bush)
+
+### Gülizar
 - Elektrik direği (Pole)
 - Merdiven (Stairs)
 - Toprak veya çimen alanlar (Grass, Dirt)
