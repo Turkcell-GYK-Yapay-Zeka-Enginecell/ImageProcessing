@@ -41,6 +41,38 @@ person, bicycle, car, motorcycle, airplane, bus, train, truck, boat, traffic lig
 - Trafik işaretleri (Traffic Sign, Stop Sign, Speed Limit)
 - Kaldırım (Sidewalk)
 
+- Coco
+
+İnsan / Yaya (Person, Pedestrian) 66.808
+Bisiklet (Bicycle) 3.401
+Araçlar (Car, Truck, Bus, Motorcycle) 12.786 araba, 3.661 motosiklet, 3745 tren, 6377 kamyon,
+Trafik ışığı (Traffic Light) 4330
+Trafik işaretleri (Traffic Sign, Stop Sign, Speed Limit) , dur işareti 1.803, 
+Kaldırım (Sidewalk)
+
+Sidewalk 
+
+İnsan / Yaya (Person, Pedestrian) /747
+Bisiklet (Bicycle) / 156
+Araçlar (Car, Truck, Bus, Motorcycle)  327 otobüs, 1.674 araba, 38 motosiklet, 809 kamyon
+Trafik ışığı (Traffic Light) / 243 trafik ışıkları
+Trafik işaretleri (Traffic Sign, Stop Sign, Speed Limit) /  487 trafik işareti, 697 trafik 
+Kaldırım (Sidewalk)/ 
+Engel 446 +100
+Ağaç 2.370 
+Direk 2.236
+
+
+Turkey road sign 
+
+İnsan / Yaya (Person, Pedestrian) 66.808
+Bisiklet (Bicycle) 
+Araçlar (Car, Truck, Bus, Motorcycle)  
+Trafik ışığı (Traffic Light) 
+Trafik işaretleri  14.717 trafik işaretleri , kırmızı ışık 687 , yeşil ışık 533
+Kaldırım (Sidewalk)
+
+
 ### Zuhal
 - Yol (Road, Street)
   - [Bu datasette düz yol(367) ve çukur(357) görüntüleri var.](https://www.kaggle.com/datasets/virenbr11/pothole-and-plain-rode-images)
