@@ -43,11 +43,20 @@ person, bicycle, car, motorcycle, airplane, bus, train, truck, boat, traffic lig
 
 ### Zuhal
 - Yol (Road, Street)
+  - [Bu datasette düz yol(367) ve çukur(357) görüntüleri var.](https://www.kaggle.com/datasets/virenbr11/pothole-and-plain-rode-images)
 - Engel / Engel çeşitleri (Obstacle, Barrier, Construction Cone)
-- Yol çizgileri (Crosswalk, Lane Marker)
+  - [Bu datasette road(586), pothole(810), yavaşlama engeli(306) var](https://www.kaggle.com/datasets/shrunmayshinde/road-obstacles-detection)
+  - [Bu datasette 646 construction code vardır](https://universe.roboflow.com/robotica-xftin/traffic-cones-4laxg/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
+- Yol çizgileri (Crosswalk, Lane Marker)0
+  - [Bu datasette yaya geçidi görslleri var.](https://github.com/xN1ckuz/Crosswalks-Detection-using-YOLO/tree/main)
+  - [Datasette 270 yayageçidi var](https://universe.roboflow.com/tfg-7qtpm/accesibility-street/browse?queryText=class%3Acrosswalk&pageSize=50&startingIndex=0&browseQuery=true)
 - Yol kenarı (Road Edge)
+  - [Bu datasette street ve ](https://universe.roboflow.com/data-dynamos/streets-and-crosswalks)
 - Çöp kutusu (Trash Can)
+  - [Bu datasette sokakta bulunan çöp görüntüleri var.12752](https://universe.roboflow.com/garbage-wbsv6/plitter)
 - Ağaçlar / Bitkiler (Tree, Bush)
+  - [Bu datasette çalı görüntüleri(361 var.](https://universe.roboflow.com/taiganguyen/obstacle-detecting/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
+ 
 
 ### Gülizar
 - Elektrik direği (Pole)
