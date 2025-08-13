@@ -51,8 +51,25 @@ person, bicycle, car, motorcycle, airplane, bus, train, truck, boat, traffic lig
 
 ### Gülizar
 - Elektrik direği (Pole)
+    - [Road Obstacles 2](https://universe.roboflow.com/safewalkbd/safewalkbd-l8jbn) - 4533
+    - [Road Obstacles 3](https://universe.roboflow.com/scottsdale/sidewalk-otzhb) - 2236
 - Merdiven (Stairs)
+    - [Road Obstacles 2](https://universe.roboflow.com/safewalkbd/safewalkbd-l8jbn) - 1375
+    - [stairs](https://universe.roboflow.com/perception-01-3e0d2/stairs-zz3xs) - 1511
 - Toprak veya çimen alanlar (Grass, Dirt)
-- Park alanı (Parking Spot)
+    - [grass](https://universe.roboflow.com/grass-iaytu/grass-gp8zy) - 1147
+- Park alanı (Parking Spot) ?
 - Yönlendirme tabelaları (Directional Sign)
+   - [Road Obstacles 4](https://universe.roboflow.com/turkeyroadsigns/turkey-road-sign?utm_source=chatgpt.com)
+   - soladonulmez - 3718
+   - girisyok - 3666
+   - durak - 2004
+   - sagadonulmez - 1958
+   - park - 1711
+   - kirmizi - 1145
+   - parkyasak - 964
+   - dur - 948
+   - ilerisol - 886
+   - ilerisag - 838 
 - Engelli rampası (Wheelchair Ramp)
+   - [wheelchair ramp](https://universe.roboflow.com/ramp-5cb74/ramp-ync8p)  - 4032
