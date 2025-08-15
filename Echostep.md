@@ -117,17 +117,17 @@ person, bicycle, car, motorcycle, airplane, bus, train, truck, boat, traffic lig
     - [stairs](https://universe.roboflow.com/perception-01-3e0d2/stairs-zz3xs) - 1511
 - Toprak veya çimen alanlar (Grass, Dirt)
     - [grass](https://universe.roboflow.com/grass-iaytu/grass-gp8zy) - 1147
-- Park alanı (Parking Spot) ?
+    - [grass](https://universe.roboflow.com/grass-project/grass-kcdnu) - 986
 - Yönlendirme tabelaları (Directional Sign)
    - [Road Obstacles 4](https://universe.roboflow.com/turkeyroadsigns/turkey-road-sign?utm_source=chatgpt.com)
    - soladonulmez - 3718
    - girisyok - 3666
    - durak - 2004
-   - sagadonulmez - 1958
-   - park - 1711
+   - sagadonulmez - 1958 + [50](https://universe.roboflow.com/local-bfobm/no-turn-right-fhstz)
+   - park - 1711 
    - kirmizi - 1145
    - parkyasak - 964
-   - dur - 948
+   - dur - 948 + https://universe.roboflow.com/datasets2/stop-sign-jp8a2
    - ilerisol - 886
    - ilerisag - 838 
 - Engelli rampası (Wheelchair Ramp)
