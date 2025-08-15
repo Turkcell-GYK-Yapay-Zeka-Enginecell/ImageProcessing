@@ -32,8 +32,8 @@ person, bicycle, car, motorcycle, airplane, bus, train, truck, boat, traffic lig
  </i>
 
 
-## CLASSES
-### Emine
+# CLASSES
+## Emine
 - İnsan / Yaya (Person, Pedestrian)
 - Bisiklet (Bicycle)
 - Araçlar (Car, Truck, Bus, Motorcycle)
@@ -41,7 +41,7 @@ person, bicycle, car, motorcycle, airplane, bus, train, truck, boat, traffic lig
 - Trafik işaretleri (Traffic Sign, Stop Sign, Speed Limit)
 - Kaldırım (Sidewalk)
 
-- ## Coco
+- ### Coco
 
 - İnsan / Yaya (Person, Pedestrian) 66.808
 - Bisiklet (Bicycle) 3.401
@@ -50,7 +50,7 @@ person, bicycle, car, motorcycle, airplane, bus, train, truck, boat, traffic lig
 - Trafik işaretleri (Traffic Sign, Stop Sign, Speed Limit) , dur işareti 1.803, 
 - Kaldırım (Sidewalk)
 
-- ## Sidewalk 
+- ### Sidewalk 
 
 - İnsan / Yaya (Person, Pedestrian) /747
 - Bisiklet (Bicycle) / 156
@@ -63,7 +63,7 @@ person, bicycle, car, motorcycle, airplane, bus, train, truck, boat, traffic lig
 - Direk 2.236
 
 
-- ## Turkey road sign 
+- ### Turkey road sign 
 
 - İnsan / Yaya (Person, Pedestrian) 66.808
 - Bisiklet (Bicycle) 
@@ -73,20 +73,28 @@ person, bicycle, car, motorcycle, airplane, bus, train, truck, boat, traffic lig
 - Kaldırım (Sidewalk)
 
 
-### Zuhal
+## Zuhal
 - Yol (Road, Street) 2367
   - [Bu datasette düz yol(367) ve çukur(357) görüntüleri var.](https://www.kaggle.com/datasets/virenbr11/pothole-and-plain-rode-images)
   - [Yol görünrüleri 2000+](https://www.kaggle.com/datasets/dataclusterlabs/lane-detection-road-line-detection-image-dataset)
   - [Bu datasette road(586), pothole(810), yavaşlama engeli(306) var](https://www.kaggle.com/datasets/shrunmayshinde/road-obstacles-detection)
 - Engel / Engel çeşitleri (Obstacle, Barrier, Construction Cone)
-  - Obstacle
-  - Çukur 810
+  - Çukur 2093
      - [Bu datasette road(586), pothole(810), yavaşlama engeli(306) var](https://www.kaggle.com/datasets/shrunmayshinde/road-obstacles-detection)
+     - [Bu datasette 665 çukur img var](https://www.kaggle.com/datasets/andrewmvd/pothole-detection)
+     - [Bu datasette 618 çukur img var](https://www.kaggle.com/datasets/sachinpatel21/pothole-image-dataset)
+  
   - Barrier
-  - Yavaşlama Engeli
+  - 
+  - Yavaşlama Engeli 2556
      - [Bu datasette road(586), pothole(810), yavaşlama engeli(306) var](https://www.kaggle.com/datasets/shrunmayshinde/road-obstacles-detection)
-  - Construction Cone 646
+     - [Bu datasette 250 speed bump img var](https://www.kaggle.com/datasets/ziya07/speed-bump-dataset)
+     - [Bu datasette 2000 speed bump var](https://www.kaggle.com/datasets/belmanasoufyane/pothole-speedbumps)
+  - Traffic Cone 2046
       - [Bu datasette 646 construction cone vardır](https://universe.roboflow.com/robotica-xftin/traffic-cones-4laxg/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
+      - [540 adet img](https://github.com/ikatsamenis/Cone-Detection/tree/main)
+      - [383 img](https://universe.roboflow.com/traffic-cone-8c5sf/traffic-cone-0o8yx)
+      - [480-1 img](https://www.kaggle.com/c/cone-detection-challenge-ECEN489/data)
 - Yol çizgileri (Crosswalk, Lane Marker)
   - [Bu datasette yaya geçidi görslleri var.](https://github.com/xN1ckuz/Crosswalks-Detection-using-YOLO/tree/main)
   - [Datasette 270 yayageçidi var](https://universe.roboflow.com/tfg-7qtpm/accesibility-street/browse?queryText=class%3Acrosswalk&pageSize=50&startingIndex=0&browseQuery=true)
@@ -98,7 +106,7 @@ person, bicycle, car, motorcycle, airplane, bus, train, truck, boat, traffic lig
   - [Bu datasette çalı görüntüleri(361 var.](https://universe.roboflow.com/taiganguyen/obstacle-detecting/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
  
 
-### Gülizar
+## Gülizar
 - Elektrik direği (Pole)
     - [Road Obstacles 2](https://universe.roboflow.com/safewalkbd/safewalkbd-l8jbn) - 4533
     - [Road Obstacles 3](https://universe.roboflow.com/scottsdale/sidewalk-otzhb) - 2236
