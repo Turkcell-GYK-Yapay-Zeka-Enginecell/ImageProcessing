@@ -74,12 +74,19 @@ person, bicycle, car, motorcycle, airplane, bus, train, truck, boat, traffic lig
 
 
 ### Zuhal
-- Yol (Road, Street)
+- Yol (Road, Street) 2367
   - [Bu datasette düz yol(367) ve çukur(357) görüntüleri var.](https://www.kaggle.com/datasets/virenbr11/pothole-and-plain-rode-images)
   - [Yol görünrüleri 2000+](https://www.kaggle.com/datasets/dataclusterlabs/lane-detection-road-line-detection-image-dataset)
-- Engel / Engel çeşitleri (Obstacle, Barrier, Construction Cone)
   - [Bu datasette road(586), pothole(810), yavaşlama engeli(306) var](https://www.kaggle.com/datasets/shrunmayshinde/road-obstacles-detection)
-  - [Bu datasette 646 construction code vardır](https://universe.roboflow.com/robotica-xftin/traffic-cones-4laxg/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
+- Engel / Engel çeşitleri (Obstacle, Barrier, Construction Cone)
+  - Obstacle
+  - Çukur 810
+     - [Bu datasette road(586), pothole(810), yavaşlama engeli(306) var](https://www.kaggle.com/datasets/shrunmayshinde/road-obstacles-detection)
+  - Barrier
+  - Yavaşlama Engeli
+     - [Bu datasette road(586), pothole(810), yavaşlama engeli(306) var](https://www.kaggle.com/datasets/shrunmayshinde/road-obstacles-detection)
+  - Construction Cone 646
+      - [Bu datasette 646 construction cone vardır](https://universe.roboflow.com/robotica-xftin/traffic-cones-4laxg/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
 - Yol çizgileri (Crosswalk, Lane Marker)
   - [Bu datasette yaya geçidi görslleri var.](https://github.com/xN1ckuz/Crosswalks-Detection-using-YOLO/tree/main)
   - [Datasette 270 yayageçidi var](https://universe.roboflow.com/tfg-7qtpm/accesibility-street/browse?queryText=class%3Acrosswalk&pageSize=50&startingIndex=0&browseQuery=true)
