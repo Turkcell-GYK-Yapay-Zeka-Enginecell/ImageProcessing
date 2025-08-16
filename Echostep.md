@@ -48,7 +48,7 @@ person, bicycle, car, motorcycle, airplane, bus, train, truck, boat, traffic lig
 - Araçlar (Car, Truck, Bus, Motorcycle) 12.786 araba, 3.661 motosiklet, 3745 tren, 6377 kamyon,
 - Trafik ışığı (Traffic Light) 4330
 - Trafik işaretleri (Traffic Sign, Stop Sign, Speed Limit) , dur işareti 1.803, 
-- Kaldırım (Sidewalk)
+- Kaldırım (Sidewalk) COCO-Stuff 2017
 
 - ### Sidewalk 
 
