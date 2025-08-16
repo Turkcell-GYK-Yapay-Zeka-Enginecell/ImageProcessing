@@ -1,1 +1,28 @@
+# CLASSES
 
+- 0 İnsan / Yaya
+- 1 Bisiklet 
+- 2 Car
+- 3 Truck
+- 4 Bus
+- 5 Motorcycle
+- 6 Tren
+- 7 Trafik ışığı
+- 8 Trafik işaretleri
+- 9 Kaldırım (Sidewalk)
+- 10 Yol
+- 11 Çukur
+- 12 Yavaşlama Engeli
+- 13 Trafik konisi
+- 14 Yaya Geçidi Çizgileri
+- 15 Çöp Kutusu
+- 16 Ağaçlar
+- 17 Bench
+- 18 Elektrik Direği
+- 19 Merdiven
+- 20 Topak ve Çimen Alan
+- 21 Yönlendirme tabelaları (durak)
+- 22 Engelli rampası (Wheelchair Ramp)
+- 23 Duvar
+- 24 Kapı
+- Çit
