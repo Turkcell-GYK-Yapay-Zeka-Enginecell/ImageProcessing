@@ -25,4 +25,6 @@
 - 22 Engelli rampası (Wheelchair Ramp)
 - 23 Duvar
 - 24 Kapı
+- 25 Kedi
+- 26 Köpek
 - Çit
