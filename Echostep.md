@@ -58,9 +58,7 @@ person, bicycle, car, motorcycle, airplane, bus, train, truck, boat, traffic lig
 - Trafik ışığı (Traffic Light) / 243 trafik ışıkları
 - Trafik işaretleri (Traffic Sign, Stop Sign, Speed Limit) /  487 trafik işareti, 697 trafik 
 - Kaldırım (Sidewalk)/ 
-- Engel 446 +100
-- Ağaç 2.370 
-- Direk 2.236
+
 
 
 - ### Turkey road sign 
