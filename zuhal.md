@@ -18,8 +18,6 @@
       - [480-1 img](https://www.kaggle.com/c/cone-detection-challenge-ECEN489/data)
 - Yaya Geçidi çizgileri (Crosswalk) 2300
   - [Bu datasette yaya geçidi görslleri var.](https://github.com/xN1ckuz/Crosswalks-Detection-using-YOLO/tree/main)
-  - [Datasette 270 yayageçidi var](https://universe.roboflow.com/tfg-7qtpm/accesibility-street/browse?queryText=class%3Acrosswalk&pageSize=50&startingIndex=0&browseQuery=true)
-  - [1049 img](https://universe.roboflow.com/tcc-xn3st/yolov8-crosswalk-detection/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
   - [1050](https://www.kaggle.com/datasets/franciscosuarezb/crosswalk-detection-dataset)
 - Yol kenarı (Road Edge)
   - [Bu datasette street ve ](https://universe.roboflow.com/data-dynamos/streets-and-crosswalks)
