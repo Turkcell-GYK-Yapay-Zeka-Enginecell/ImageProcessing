@@ -14,7 +14,7 @@
 - 11 Çukur &#x2611;
 - 12 Yavaşlama Engeli &#x2611;
 - 13 Trafik konisi
-- 14 Yaya Geçidi Çizgileri
+- 14 Yaya Geçidi Çizgileri &#x2611;
 - 15 Çöp Kutusu
 - 16 Ağaçlar
 - 17 Bench
