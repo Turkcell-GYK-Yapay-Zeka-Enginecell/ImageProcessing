@@ -11,7 +11,7 @@
 - 8 Trafik işaretleri
 - 9 Kaldırım (Sidewalk)
 - 10 Yol
-- 11 Çukur
+- 11 Çukur &#x2611;
 - 12 Yavaşlama Engeli
 - 13 Trafik konisi
 - 14 Yaya Geçidi Çizgileri
