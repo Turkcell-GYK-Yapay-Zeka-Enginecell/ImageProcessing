@@ -16,7 +16,7 @@
 - 13 Trafik konisi
 - 14 Yaya Geçidi Çizgileri &#x2611;
 - 15 Çöp Kutusu &#x2611;
-- 16 Ağaçlar
+- 16 Ağaçlar &#x2611;
 - 17 Bench
 - 18 Elektrik Direği
 - 19 Merdiven
