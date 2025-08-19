@@ -15,7 +15,7 @@
 - 12 Yavaşlama Engeli &#x2611;
 - 13 Trafik konisi
 - 14 Yaya Geçidi Çizgileri &#x2611;
-- 15 Çöp Kutusu
+- 15 Çöp Kutusu &#x2611;
 - 16 Ağaçlar
 - 17 Bench
 - 18 Elektrik Direği
