@@ -12,7 +12,7 @@
 - 9 Kaldırım (Sidewalk)
 - 10 Yol
 - 11 Çukur &#x2611;
-- 12 Yavaşlama Engeli
+- 12 Yavaşlama Engeli &#x2611;
 - 13 Trafik konisi
 - 14 Yaya Geçidi Çizgileri
 - 15 Çöp Kutusu
