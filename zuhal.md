@@ -23,7 +23,4 @@
 - Çöp kutusu (Trash Can) 12000
   - [Bu datasette sokakta bulunan çöp görüntüleri var](https://www.kaggle.com/datasets/ahmedfathygwely/garbage-data)
 - Ağaçlar / Bitkiler (Tree, Bush) 3200
-  - [Bu datasette çalı görüntüleri(361 var.](https://universe.roboflow.com/taiganguyen/obstacle-detecting/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
-  - [234 img](https://universe.roboflow.com/fallen-tree-on-roads/fallen-trees-on-road/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
-  - [2712 img](https://universe.roboflow.com/trees-sam/yolov8tree/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
- 
+  - [Bu datasette ağaç görüntüleri var.](https://www.kaggle.com/datasets/samuelayman/tree-yolo-annotated?utm_source=chatgpt.com)
