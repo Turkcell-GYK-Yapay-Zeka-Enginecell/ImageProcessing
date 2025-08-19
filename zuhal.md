@@ -21,7 +21,7 @@
   - [1050](https://www.kaggle.com/datasets/franciscosuarezb/crosswalk-detection-dataset)
   - [3000 küsür data var.](https://zenodo.org/records/8289874)
 - Çöp kutusu (Trash Can) 12000
-  - [Bu datasette sokakta bulunan çöp görüntüleri var.12752](https://universe.roboflow.com/garbage-wbsv6/plitter)
+  - [Bu datasette sokakta bulunan çöp görüntüleri var](https://www.kaggle.com/datasets/ahmedfathygwely/garbage-data)
 - Ağaçlar / Bitkiler (Tree, Bush) 3200
   - [Bu datasette çalı görüntüleri(361 var.](https://universe.roboflow.com/taiganguyen/obstacle-detecting/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
   - [234 img](https://universe.roboflow.com/fallen-tree-on-roads/fallen-trees-on-road/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
