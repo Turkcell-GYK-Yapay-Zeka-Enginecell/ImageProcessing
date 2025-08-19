@@ -24,3 +24,4 @@
   - [Bu datasette sokakta bulunan çöp görüntüleri var](https://www.kaggle.com/datasets/ahmedfathygwely/garbage-data)
 - Ağaçlar / Bitkiler (Tree, Bush) 3200
   - [Bu datasette ağaç görüntüleri var.](https://www.kaggle.com/datasets/samuelayman/tree-yolo-annotated?utm_source=chatgpt.com)
+  - [data](https://www.kaggle.com/datasets/andresmgs/citdet-yolo)
