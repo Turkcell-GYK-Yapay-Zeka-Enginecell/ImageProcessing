@@ -9,10 +9,8 @@
      - [Bu datasette 665 çukur img var](https://www.kaggle.com/datasets/andrewmvd/pothole-detection)
      - [Bu datasette 1243 çukur img var](https://github.com/jaygala24/pothole-detection?tab=readme-ov-file)
 
-  - Yavaşlama Engeli 2556
-     - [Bu datasette road(586), pothole(810), yavaşlama engeli(306) var](https://www.kaggle.com/datasets/shrunmayshinde/road-obstacles-detection)
-     - [Bu datasette 250 speed bump img var](https://www.kaggle.com/datasets/ziya07/speed-bump-dataset)
-     - [Bu datasette 2000 speed bump var](https://www.kaggle.com/datasets/belmanasoufyane/pothole-speedbumps)
+  - Yavaşlama Engeli 2090
+     - [Bu datasette 2090 speed bump var](https://www.kaggle.com/datasets/belmanasoufyane/pothole-speedbumps)
   - Traffic Cone 2046
       - [Bu datasette 646 construction cone vardır](https://universe.roboflow.com/robotica-xftin/traffic-cones-4laxg/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
       - [540 adet img](https://github.com/ikatsamenis/Cone-Detection/tree/main)
