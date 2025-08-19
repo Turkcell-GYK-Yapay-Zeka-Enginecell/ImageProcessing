@@ -19,6 +19,7 @@
 - Yaya Geçidi çizgileri (Crosswalk) 2300
   - [Bu datasette yaya geçidi görslleri var.](https://github.com/xN1ckuz/Crosswalks-Detection-using-YOLO/tree/main)
   - [1050](https://www.kaggle.com/datasets/franciscosuarezb/crosswalk-detection-dataset)
+  - [3000 küsür data var.](https://zenodo.org/records/8289874)
 - Çöp kutusu (Trash Can) 12000
   - [Bu datasette sokakta bulunan çöp görüntüleri var.12752](https://universe.roboflow.com/garbage-wbsv6/plitter)
 - Ağaçlar / Bitkiler (Tree, Bush) 3200
