@@ -23,3 +23,6 @@
 - Ağaçlar / Bitkiler (Tree, Bush) 3200
   - [Bu datasette ağaç görüntüleri var.](https://www.kaggle.com/datasets/samuelayman/tree-yolo-annotated?utm_source=chatgpt.com)
   - [data](https://www.kaggle.com/datasets/andresmgs/citdet-yolo)
+ 
+  bench
+  https://universe.roboflow.com/data-dynamos/streets-and-crosswalks/images/Ch3kSxcaanazzzBRdRHb?queryText=class%3Abench&pageSize=50&startingIndex=0&browseQuery=true
