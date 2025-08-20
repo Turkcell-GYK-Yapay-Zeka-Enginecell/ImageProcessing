@@ -26,3 +26,7 @@
  
   bench
   https://universe.roboflow.com/data-dynamos/streets-and-crosswalks/images/Ch3kSxcaanazzzBRdRHb?queryText=class%3Abench&pageSize=50&startingIndex=0&browseQuery=true
+
+
+
+  https://universe.roboflow.com/class-experiment-2/bench-y0kd5
