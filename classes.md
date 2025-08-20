@@ -10,7 +10,7 @@
 - 7 Trafik ışığı
 - 8 Trafik işaretleri
 - 9 Kaldırım (Sidewalk)
-- 10 Yol
+- 10 Yol &#x2611;
 - 11 Çukur &#x2611;
 - 12 Yavaşlama Engeli &#x2611;
 - 13 Trafik konisi &#x2611;
