@@ -2,7 +2,6 @@
 ## Zuhal
 - Yol (Road, Street) 2367
   - [Yol görünrüleri 2000+](https://www.kaggle.com/datasets/dataclusterlabs/lane-detection-road-line-detection-image-dataset)
-  - [Bu datasette road(586), pothole(810), yavaşlama engeli(306) var](https://www.kaggle.com/datasets/shrunmayshinde/road-obstacles-detection)
  
   - https://www.kaggle.com/datasets/kpgeek/kitti-roadlane-detection-dataset-224-x-224
 - Engel / Engel çeşitleri (Obstacle, Barrier, Construction Cone)
