@@ -13,7 +13,7 @@
 - 10 Yol
 - 11 Çukur &#x2611;
 - 12 Yavaşlama Engeli &#x2611;
-- 13 Trafik konisi
+- 13 Trafik konisi &#x2611;
 - 14 Yaya Geçidi Çizgileri &#x2611;
 - 15 Çöp Kutusu &#x2611;
 - 16 Ağaçlar &#x2611;
