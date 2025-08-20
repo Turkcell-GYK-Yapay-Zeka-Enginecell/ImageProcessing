@@ -12,8 +12,7 @@
   - Yavaşlama Engeli 2090
      - [Bu datasette 2090 speed bump var](https://www.kaggle.com/datasets/belmanasoufyane/pothole-speedbumps)
   - Traffic Cone 2046
-      - [540 adet img](https://github.com/ikatsamenis/Cone-Detection/tree/main)
-      - [480-1 img](https://www.kaggle.com/c/cone-detection-challenge-ECEN489/data)
+      - [200 adet img](https://github.com/ikatsamenis/Cone-Detection/tree/main)
 - Yaya Geçidi çizgileri (Crosswalk) 2300
   - [Bu datasette yaya geçidi görslleri var.](https://github.com/xN1ckuz/Crosswalks-Detection-using-YOLO/tree/main)
   - [1050](https://www.kaggle.com/datasets/franciscosuarezb/crosswalk-detection-dataset)
