@@ -3,7 +3,7 @@
 - Yol (Road, Street) 2367
   - [Yol görünrüleri 2000+](https://www.kaggle.com/datasets/dataclusterlabs/lane-detection-road-line-detection-image-dataset)
  
-  - https://www.kaggle.com/datasets/kpgeek/kitti-roadlane-detection-dataset-224-x-224
+  - https://universe.roboflow.com/object-detection-bvnxk/road-xuajn/dataset/1
 - Engel / Engel çeşitleri (Obstacle, Barrier, Construction Cone)
   - Çukur 1908
      - [Bu datasette 665 çukur img var](https://www.kaggle.com/datasets/andrewmvd/pothole-detection)
