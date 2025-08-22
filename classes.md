@@ -20,9 +20,9 @@
 - 17 Bench
 - 18 Elektrik Direği &#x2611;
 - 19 Merdiven &#x2611;
-- 20 Topak ve Çimen Alan
-- 21 Yönlendirme tabelaları (durak)
-- 22 Engelli rampası (Wheelchair Ramp)
+- 20 Topak ve Çimen Alan &#x2611;
+- 21 Yönlendirme tabelaları (durak) &#x2611;
+- 22 Engelli rampası (Wheelchair Ramp) &#x2611;
 - 23 Duvar
 - 24 Kapı
 - 25 Kedi
