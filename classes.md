@@ -24,7 +24,7 @@
 - 21 Yönlendirme tabelaları (durak) &#x2611;
 - 22 Engelli rampası (Wheelchair Ramp) &#x2611;
 - 23 Duvar
-- 24 Kapı
+- 24 Kapı &#x2611; 2069
 - 25 Kedi
 - 26 Köpek
 - Çit
