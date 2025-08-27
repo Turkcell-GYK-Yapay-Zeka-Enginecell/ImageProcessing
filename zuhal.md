@@ -32,5 +32,9 @@
   https://universe.roboflow.com/class-experiment-2/bench-y0kd5
 
   door
-  https://www.kaggle.com/datasets/nderalparslan/dwsonder
+  https://www.kaggle.com/datasets/nderalparslan/dwsonder <br>
   https://www.kaggle.com/datasets/cubeai/door-detection-for-yolov8?select=train
+
+  <br>
+  Kedi Köpek <br>
+  https://www.kaggle.com/datasets/melikbekyanashot/catsdogs-for-yolo
