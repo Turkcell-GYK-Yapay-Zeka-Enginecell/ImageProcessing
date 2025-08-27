@@ -10,13 +10,13 @@
 - 7 Trafik ışığı
 - 8 Trafik işaretleri
 - 9 Kaldırım (Sidewalk)
-- 10 Yol &#x2611;
-- 11 Çukur &#x2611;
-- 12 Yavaşlama Engeli &#x2611;
-- 13 Trafik konisi &#x2611;
-- 14 Yaya Geçidi Çizgileri &#x2611;
-- 15 Çöp Kutusu &#x2611;
-- 16 Ağaçlar &#x2611;
+- 10 Yol &#x2611; 999
+- 11 Çukur &#x2611; 1908
+- 12 Yavaşlama Engeli &#x2611; 2090
+- 13 Trafik konisi &#x2611;  1754
+- 14 Yaya Geçidi Çizgileri &#x2611; 2070
+- 15 Çöp Kutusu &#x2611; 3669
+- 16 Ağaçlar &#x2611; 1703
 - 17 Bench
 - 18 Elektrik Direği &#x2611;
 - 19 Merdiven &#x2611;
