@@ -33,3 +33,4 @@
 
   door
   https://www.kaggle.com/datasets/nderalparslan/dwsonder
+  https://www.kaggle.com/datasets/cubeai/door-detection-for-yolov8?select=train
