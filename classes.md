@@ -17,7 +17,7 @@
 - 14 Yaya Geçidi Çizgileri &#x2611; 2070
 - 15 Çöp Kutusu &#x2611; 3669
 - 16 Ağaçlar &#x2611; 1703
-- 17 Bench
+- 17 Bench &#x2611; 2103
 - 18 Elektrik Direği &#x2611;
 - 19 Merdiven &#x2611;
 - 20 Topak ve Çimen Alan &#x2611;
