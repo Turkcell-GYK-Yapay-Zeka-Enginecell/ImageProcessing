@@ -23,8 +23,8 @@
 - 20 Topak ve Çimen Alan &#x2611;
 - 21 Yönlendirme tabelaları (durak) &#x2611;
 - 22 Engelli rampası (Wheelchair Ramp) &#x2611;
-- 23 Duvar
+- 23 Çit &#x2611; 2103
 - 24 Kapı &#x2611; 2069
 - 25 Kedi &#x2611; 2064
 - 26 Köpek &#x2611; 2190
-- 27 Çit &#x2611; 2103
+- 27 
